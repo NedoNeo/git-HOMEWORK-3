@@ -8,5 +8,5 @@
 4. ПОлная Самоотдача.
 
 
-<image src=../cat.jpg>
+<image src=/cat.jpg>
 
